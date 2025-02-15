@@ -1,13 +1,12 @@
 {
-  "homepage": "https://github.com/deepakkumar0622/portfolio/",
+  "homepage": "https://deepakkumar0622.github.io/portfolio-v1/",
   "name": "myportfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy" :"npm run build",
-    "deploy":"gh-pages -d dist",
+    "deploy":"npm run build && gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
