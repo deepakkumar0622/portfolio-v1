@@ -1,7 +1,7 @@
 import { useState } from "react";
 import PropTypes from "prop-types";
 const listVal = ["Home", "About", "Projects", "Certifications", "Contact"];
-import resume from "/Deepak_Web developer.pdf";
+import resume from "/Deepak_full_stack_developer.pdf";
 
 export default function Navbar({ onNavigate }) {
   const [on, seton] = useState(false);
