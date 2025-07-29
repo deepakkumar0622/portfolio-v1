@@ -28,7 +28,12 @@ const Hero = () => {
             and I&apos;m a{" "}
             <TypeAnimation
               className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 md:text-4xl text-3xl font-semibold"
-              sequence={["Front-End Developer", 1000, " ", 500]}
+              sequence={[
+                "Front-End Developer",
+                2000, // display for 2 seconds
+                "MERN-Stack Developer",
+                2000, // increased to 2 seconds
+              ]}
               wrapper="span"
               speed={20}
               repeat={Infinity}

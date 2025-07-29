@@ -97,7 +97,7 @@ const Footer = ({ onNavigate }) => {
                   src="./linkedin.png"
                   width="30px"
                   alt="LinkedIn"
-                  className=" transition-transform transform hover:scale-110 hover:filter hover:invert"
+                  className=" transition-transform transform hover:scale-110 hover:filter "
                 />
               </a>
               <a href="https://github.com/deepakkumar0622" target="_blank">
@@ -105,7 +105,7 @@ const Footer = ({ onNavigate }) => {
                   src="./github.png"
                   width="30px"
                   alt="GitHub"
-                  className="transition-transform transform hover:scale-110 hover:filter hover:invert"
+                  className="transition-transform transform hover:scale-110 hover:filter"
                 />
               </a>
               <a href="#" target="_blank">
@@ -113,7 +113,7 @@ const Footer = ({ onNavigate }) => {
                   src="./facebook.png"
                   width="30px"
                   alt="Facebook"
-                  className="transition-transform transform hover:scale-110 hover:filter hover:invert"
+                  className="transition-transform transform hover:scale-110 hover:filter "
                 />
               </a>
               <a
@@ -124,7 +124,7 @@ const Footer = ({ onNavigate }) => {
                   src="./instagram.png"
                   width="30px"
                   alt="Instagram"
-                  className="transition-transform transform hover:scale-110 hover:filter hover:invert"
+                  className="transition-transform transform hover:scale-110 hover:filter"
                 />
               </a>
             </div>
