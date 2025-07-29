@@ -5,11 +5,6 @@ const icons = [
     level: 70, // Level in percentage
   },
   {
-    icons: "./next.png",
-    title: "Next JS",
-    level: 50,
-  },
-  {
     icons: "./Node.js.png",
     title: "Node JS",
     level: 60,
@@ -18,6 +13,11 @@ const icons = [
     icons: "./js.png",
     title: "JavaScript",
     level: 60,
+  },
+  {
+    icons: "./MongoDB.png",
+    title: "Mongo DB",
+    level: 50,
   },
   {
     icons: "./html-5.png",
@@ -56,14 +56,15 @@ const About = () => {
         <div className="mt-10">
           <div>
             <p
-              className="md:font-medium md:line-clamp-4 md:text-base text-sm text-center md:text-start  md:max-w-[600px] mt-5 italic"
+              className="md:font-medium md:line-clamp-5 md:text-[14px] text-sm text-center md:text-center  md:max-w-[600px] mt-5 italic"
               data-aos="zoom-in-up"
               data-aos-duration="2000"
             >
-              I&apos;m a Front-End Developer dedicated to creating visually
-              appealing, responsive, and user-friendly websites. Let&apos;s work
-              together to turn your ideas into dynamic and engaging web
-              experiences! 👋👋
+              I&apos;m a MERN Stack Developer passionate about building
+              full-stack web applications that are fast, responsive, and
+              scalable. From intuitive front-end interfaces to robust back-end
+              systems, I bring your ideas to life with clean code and seamless
+              functionality. Let&apos;s build something awesome together!🚀💻
             </p>
             <h1
               className="font-bold text-4xl text-center mt-10 underline"
