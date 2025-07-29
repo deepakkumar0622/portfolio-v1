@@ -10,9 +10,9 @@ const icons = [
     level: 50,
   },
   {
-    icons: "./tailw.png",
-    title: "Tailwind CSS",
-    level: 80,
+    icons: "./Node.js.png",
+    title: "Node JS",
+    level: 60,
   },
   {
     icons: "./js.png",

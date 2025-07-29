@@ -8,7 +8,7 @@ const cards = [
     link: "https://movie-listing-app-cyan.vercel.app/",
   },
   {
-    img: "./jio-cinema.png",
+    img: "./Jio-cinema.png",
     title: "Jio-cinema clone",
     desc: "A JioCinema Clone is a streaming platform for movies, TV shows, and live sports with features like authentication, search, and watchlists.",
     link: "https://deepakkumar0622.github.io/jio-cinema-clone/",
@@ -18,6 +18,12 @@ const cards = [
     title: "Portfolio",
     desc: "Showcasing my expertise in web development, design, and innovation. Explore my projects, skills, and achievements that bring ideas to life.",
     link: "https://github.com/deepakkumar0622/portfolio-v1",
+  },
+  {
+    img: "./foodcard.jpg",
+    title: "Food-app",
+    desc: "Discover and order your favorite dishes from nearby restaurants with ease. Enjoy fast delivery, exclusive deals, and a world of flavors at your fingertips!",
+    link: "https://deepakkumar0622.github.io/food-app/",
   },
   {
     img: "./collegecard.jpg",
@@ -30,12 +36,6 @@ const cards = [
     title: "Todo-App",
     desc: "A simple yet efficient To-Do app designed to help you organize tasks, set priorities, and boost productivity with ease.",
     link: "https://github.com/deepakkumar0622/Todo-app",
-  },
-  {
-    img: "./foodcard.jpg",
-    title: "Food-app",
-    desc: "Discover and order your favorite dishes from nearby restaurants with ease. Enjoy fast delivery, exclusive deals, and a world of flavors at your fingertips!",
-    link: "https://github.com/deepakkumar0622/food-app",
   },
 ];
 
