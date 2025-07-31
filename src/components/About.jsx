@@ -1,31 +1,31 @@
 const icons = [
   {
-    icons: "./atom.png",
+    icons: "./Icons/atom.png",
     title: "React Js",
     level: 70, // Level in percentage
   },
   {
-    icons: "./Node.js.png",
+    icons: "./Icons/Node.js.png",
     title: "Node JS",
     level: 60,
   },
   {
-    icons: "./js.png",
+    icons: "./Icons/js.png",
     title: "JavaScript",
     level: 60,
   },
   {
-    icons: "./MongoDB.png",
+    icons: "./Icons/MongoDB.png",
     title: "Mongo DB",
     level: 50,
   },
   {
-    icons: "./html-5.png",
+    icons: "./Icons/html-5.png",
     title: "HTML",
     level: 90,
   },
   {
-    icons: "./css-3.png",
+    icons: "./Icons/css-3.png",
     title: "CSS",
     level: 90,
   },
@@ -46,7 +46,7 @@ const About = () => {
       <div className="flex flex-col md:flex-row mt-10 md:mt-0 items-center  md:space-x-36 ">
         <div data-aos="fade-left" data-aos-duration="2000">
           <img
-            src="./about.png"
+            src="./Icons/about.png"
             width="500px"
             alt="Aboutimg"
             className="animate-bounce-slight md:w-[500px] w-[300px]"
