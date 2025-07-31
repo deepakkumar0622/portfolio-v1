@@ -99,7 +99,7 @@ export default function Contact() {
         </form>
         <div>
           <img
-            src="./contact.png"
+            src="./Icons/contact.png"
             className="w-[35rem] md:block hidden ml-auto h-[35rem] animate-bounce-slight "
           />
         </div>
