@@ -50,7 +50,7 @@ const Hero = () => {
         </div>
         <div className="hidden md:flex flex-col">
           <img
-            src="./hero.png"
+            src="./Icons/hero.png"
             alt="png"
             className=" img max-w-[400px] mt-20 animate-bounce-slight"
           />
@@ -63,7 +63,7 @@ const Hero = () => {
           target="_blank"
         >
           <img
-            src="./linkedin.png"
+            src="./Icons/linkedin.png"
             width="20px"
             alt="LinkedIn"
             className="transition-transform transform hover:scale-110 hover:filter hover:invert"
@@ -71,7 +71,7 @@ const Hero = () => {
         </a>
         <a href="https://github.com/deepakkumar0622" target="_blank">
           <img
-            src="./github.png"
+            src="./Icons/github.png"
             width="20px"
             alt="GitHub"
             className="transition-transform transform hover:scale-110 hover:filter hover:invert"
@@ -79,7 +79,7 @@ const Hero = () => {
         </a>
         <a href="#" target="_blank">
           <img
-            src="./facebook.png"
+            src="./Icons/facebook.png"
             width="20px"
             alt="Facebook"
             className="transition-transform transform hover:scale-110 hover:filter hover:invert"
@@ -90,7 +90,7 @@ const Hero = () => {
           target="_blank"
         >
           <img
-            src="./instagram.png"
+            src="./Icons/instagram.png"
             width="20px"
             alt="Instagram"
             className="transition-transform transform hover:scale-110 hover:filter hover:invert"

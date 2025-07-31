@@ -20,7 +20,7 @@ export default function Navbar({ onNavigate }) {
     <>
       <nav className="w-full bg-transparent z-50 shadow-sm p-1">
         <div className=" flex justify-between items-center mx-3">
-          <img src="./programming.png" width={50} height={50} />
+          <img src="./Icons/programming.png" width={50} height={50} />
           <ul className="md:flex hidden list-none gap-16   cursor-pointer  ml-32">
             {listVal.map((v, i) => (
               <li
