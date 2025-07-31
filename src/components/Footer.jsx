@@ -94,7 +94,7 @@ const Footer = ({ onNavigate }) => {
                 target="_blank"
               >
                 <img
-                  src="./linkedin.png"
+                  src="./Icons/linkedin.png"
                   width="30px"
                   alt="LinkedIn"
                   className=" transition-transform transform hover:scale-110 hover:filter "
@@ -102,7 +102,7 @@ const Footer = ({ onNavigate }) => {
               </a>
               <a href="https://github.com/deepakkumar0622" target="_blank">
                 <img
-                  src="./github.png"
+                  src="./Icons/github.png"
                   width="30px"
                   alt="GitHub"
                   className="transition-transform transform hover:scale-110 hover:filter"
@@ -110,7 +110,7 @@ const Footer = ({ onNavigate }) => {
               </a>
               <a href="#" target="_blank">
                 <img
-                  src="./facebook.png"
+                  src="./Icons/facebook.png"
                   width="30px"
                   alt="Facebook"
                   className="transition-transform transform hover:scale-110 hover:filter "
@@ -121,7 +121,7 @@ const Footer = ({ onNavigate }) => {
                 target="_blank"
               >
                 <img
-                  src="./instagram.png"
+                  src="./Icons/instagram.png"
                   width="30px"
                   alt="Instagram"
                   className="transition-transform transform hover:scale-110 hover:filter"
