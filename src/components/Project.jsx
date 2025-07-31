@@ -2,39 +2,39 @@ import { Fade, Slide } from "react-awesome-reveal";
 
 const cards = [
   {
-    img: "./movie-card.jpeg",
+    img: "./Projects Images/movie-card.jpeg",
     title: "Movie-App",
     desc: "A dynamic movie app that allows users to browse, search, and discover the latest movies and TV shows with detailed information and trailers.",
     link: "https://movie-listing-app-cyan.vercel.app/",
   },
   {
-    img: "./cart-card.png",
+    img: "./Projects Images/cart-card.png",
     title: "Grocery-cart",
     desc: "Built a full-stack e-commerce app with admin panel, product management, and cart logic. ",
     link: "https://grocery-cart-rmrg.vercel.app/",
   },
   {
-    img: "./Jio-cinema.png",
+    img: "./Projects Images/Jio-cinema.png",
     title: "Jio-cinema clone",
     desc: "A JioCinema Clone is a streaming platform for movies, TV shows, and live sports with features like authentication, search, and watchlists.",
     link: "https://deepakkumar0622.github.io/jio-cinema-clone/",
   },
   {
-    img: "./foodcard.jpg",
+    img: "./Projects Images/foodcard.jpg",
     title: "Food-app",
     desc: "Discover and order your favorite dishes from nearby restaurants with ease. Enjoy fast delivery, exclusive deals, and a world of flavors at your fingertips!",
     link: "https://deepakkumar0622.github.io/food-app/",
   },
 
   {
-    img: "./portfolio.png",
+    img: "./Projects Images/portfolio.png",
     title: "Portfolio",
     desc: "Showcasing my expertise in web development, design, and innovation. Explore my projects, skills, and achievements that bring ideas to life.",
     link: "https://github.com/deepakkumar0622/portfolio-v1",
   },
 
   {
-    img: "./collegecard.jpg",
+    img: "./Projects Images/collegecard.jpg",
     title: "College site",
     desc: "An engaging college blog site for students to share experiences, post articles, and stay updated on campus news and events.",
     link: "https://github.com/deepakkumar0622/eduford",
