@@ -6,31 +6,37 @@ import { Autoplay } from "swiper/modules";
 
 const items = [
   {
-    img: "./typescript.png",
+    img: "./Certificates/typescript.png",
     title: "Typescript",
     site: "Simplilearn",
-    logo: <img src="./simplilearn.jpeg" />,
+    logo: <img src="./Logo/simplilearn.jpeg" />,
   },
   {
-    img: "./reactjs.png",
+    img: "./Certificates/reactjs.png",
     title: "React JS",
     site: "Simplilearn",
-    logo: <img src="./simplilearn.jpeg" />,
+    logo: <img src="./Logo/simplilearn.jpeg" />,
   },
   {
-    img: "./SQL.png",
+    img: "./Certificates/SQL.png",
     title: "SQL",
     site: "Simplilearn",
-    logo: <img src="./simplilearn.jpeg" />,
+    logo: <img src="./Logo/simplilearn.jpeg" />,
   },
   {
-    img: "./Sk-python.png",
+    img: "./Certificates/Java-HR.png",
+    title: "Java Basics",
+    site: "Hacker Rank",
+    logo: <img src="./Logo/Hackerrank.png" />,
+  },
+  {
+    img: "./Certificates/Sk-python.png",
     title: "Python for beginners",
     site: "Skill-Rack",
-    logo: <img src="./skillrack.png" />,
+    logo: <img src="./Logo/skillrack.png" />,
   },
   {
-    img: "./SL-Python.png",
+    img: "./Certificates/SL-Python.png",
     title: "Python",
     site: "Solo-learn",
     logo: (
@@ -69,13 +75,13 @@ const items = [
     ),
   },
   {
-    img: "./Communication.jpg",
+    img: "./Certificates/Communication.jpg",
     title: "Communication by TCS",
     site: "TCS ION",
-    logo: <img src="./ion.png" className="mx-1" />,
+    logo: <img src="./Logo/ion.png" className="mx-1" />,
   },
   {
-    img: "./Cb course.png",
+    img: "./Certificates/Cb course.png",
     title: "CyberSecurity",
     site: "IBM Skillbuild",
     logo: (
@@ -86,7 +92,7 @@ const items = [
   },
 
   {
-    img: "./Ai course.png",
+    img: "./Certificates/Ai course.png",
     title: "Artificial Intelligence",
     site: "IBM Skillbuild",
     logo: (
@@ -96,13 +102,13 @@ const items = [
     ),
   },
   {
-    img: "./express.png",
+    img: "./Certificates/express.png",
     title: "Express JS",
     site: "Simplilearn",
-    logo: <img src="./simplilearn.jpeg" />,
+    logo: <img src="./Logo/simplilearn.jpeg" />,
   },
   {
-    img: "./scaler-react.png",
+    img: "./Certificates/scaler-react.png",
     title: "React JS",
     site: "Scaler",
     logo: (
@@ -143,10 +149,10 @@ const items = [
     ),
   },
   {
-    img: "./fita.png",
+    img: "./Certificates/fita.png",
     title: "Master in Full Stack",
     site: "FITA Academy",
-    logo: "",
+    logo: <img src="./Logo/fita.png" />,
   },
 ];
 
