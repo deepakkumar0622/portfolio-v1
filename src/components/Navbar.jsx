@@ -95,7 +95,7 @@ export default function Navbar({ onNavigate }) {
                 </a>
               </li>
             ))}
-            <a href={resume} download="Deepak_Web developer.pdf">
+            <a href={resume} download="DeepakWebdeveloper.pdf">
               <button className="button" type="button">
                 <span className="button__text">Download cv</span>
                 <span className="button__icon">
